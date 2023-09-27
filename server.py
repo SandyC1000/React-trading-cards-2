@@ -29,7 +29,7 @@ CARD_DATA = [
     },
     {
         "name": "Seed.py",
-        "skill": "making curry dishes",
+        "skill": "making spice dishes",
         "imgUrl": "/static/img/seedpy.jpeg",
         "cardId": 5,
     },
